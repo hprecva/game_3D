@@ -1,0 +1,4 @@
+repository "game_3D_initial@hecpreva@cloud"
+  path "/"
+    br "/main"
+    co "/main"
